@@ -426,13 +426,18 @@
       {
         "filename": "Keyboard.kicad_sch",
         "name": "Keyboard",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "8c50ca30-7e5f-4942-aa3e-2d9da8c7d0f2"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#PWR1-3,U1",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "8c50ca30-7e5f-4942-aa3e-2d9da8c7d0f2",
+      "Keyboard"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
