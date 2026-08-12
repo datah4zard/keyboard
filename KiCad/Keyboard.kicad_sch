@@ -2980,6 +2980,168 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "SSD1306-128x64_OLED:SSD1306"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "Brd"
+				(at 0 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "SSD1306"
+				(at 0 -1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "SSD1306-128x64_OLED:SSD1306"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "SSD1306_0_1"
+				(rectangle
+					(start -6.35 6.35)
+					(end 6.35 -6.35)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "SSD1306_1_1"
+				(pin input line
+					(at -3.81 8.89 270)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -1.27 8.89 270)
+					(length 2.54)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 1.27 8.89 270)
+					(length 2.54)
+					(name "SCL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 3.81 8.89 270)
+					(length 2.54)
+					(name "SDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Switch:SW_Push"
 			(pin_numbers
 				(hide yes)
@@ -3931,8 +4093,16 @@
 		(uuid "0c68ff6b-47b7-4d95-b5ab-4c6cbb735995")
 	)
 	(no_connect
+		(at 111.76 172.72)
+		(uuid "27b142df-dffa-4fb3-92d7-cbf6f24c8664")
+	)
+	(no_connect
 		(at 247.65 40.64)
 		(uuid "544eb726-0033-45f8-a56d-3217ef0afcfa")
+	)
+	(no_connect
+		(at 81.28 162.56)
+		(uuid "6e98dd61-bdd5-47b1-9d39-82121bcdf927")
 	)
 	(no_connect
 		(at 217.17 40.64)
@@ -3947,6 +4117,10 @@
 		(uuid "91af8380-2dd3-4491-a928-c38a10b9070c")
 	)
 	(no_connect
+		(at 81.28 165.1)
+		(uuid "9ae31bd1-4a9b-49b7-a083-523cb08b9699")
+	)
+	(no_connect
 		(at 245.11 40.64)
 		(uuid "a6235ae5-0e2e-4615-b95f-428fda2aa53e")
 	)
@@ -3957,6 +4131,10 @@
 	(no_connect
 		(at 232.41 40.64)
 		(uuid "caf87ad8-1436-4ab8-9189-5244c7f1c694")
+	)
+	(no_connect
+		(at 81.28 167.64)
+		(uuid "ef442fbf-2f1e-4fb6-91a7-cafdf8aa6ae8")
 	)
 	(no_connect
 		(at 237.49 40.64)
@@ -4014,6 +4192,16 @@
 	)
 	(wire
 		(pts
+			(xy 33.02 24.13) (xy 38.1 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "094ee65b-405e-460c-b1c5-7042b01a1752")
+	)
+	(wire
+		(pts
 			(xy 50.8 88.9) (xy 66.04 88.9)
 		)
 		(stroke
@@ -4041,6 +4229,16 @@
 			(type default)
 		)
 		(uuid "117a0119-a4e2-440c-91b7-b28dcbfd25bf")
+	)
+	(wire
+		(pts
+			(xy 111.76 154.94) (xy 123.19 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1183e473-7bea-4ba5-87a0-a4a33b4bfdb3")
 	)
 	(wire
 		(pts
@@ -4211,6 +4409,16 @@
 			(type default)
 		)
 		(uuid "2e2476f3-9ef1-4dd9-ae61-542787bc1f02")
+	)
+	(wire
+		(pts
+			(xy 111.76 152.4) (xy 123.19 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f1882f1-14dc-45c9-9e80-f05cebb12acb")
 	)
 	(wire
 		(pts
@@ -4524,6 +4732,16 @@
 	)
 	(wire
 		(pts
+			(xy 38.1 19.05) (xy 38.1 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ef7caef-e3e8-49f2-b36c-decc6f0c56b5")
+	)
+	(wire
+		(pts
 			(xy 114.3 68.58) (xy 114.3 81.28)
 		)
 		(stroke
@@ -4794,6 +5012,16 @@
 	)
 	(wire
 		(pts
+			(xy 33.02 19.05) (xy 33.02 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5715c76-fa94-4173-b68b-720dd54f94c3")
+	)
+	(wire
+		(pts
 			(xy 267.97 43.18) (xy 267.97 40.64)
 		)
 		(stroke
@@ -4811,6 +5039,16 @@
 			(type default)
 		)
 		(uuid "bbeb8c78-7492-41ce-870d-a0004b912545")
+	)
+	(wire
+		(pts
+			(xy 33.02 29.21) (xy 50.8 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bfd846a1-e1e6-4ec8-b2db-1c8c5254ef2e")
 	)
 	(wire
 		(pts
@@ -5114,6 +5352,16 @@
 	)
 	(wire
 		(pts
+			(xy 33.02 26.67) (xy 50.8 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2200402-bb07-4924-9325-c11562c4f052")
+	)
+	(wire
+		(pts
 			(xy 129.54 50.8) (xy 142.24 50.8)
 		)
 		(stroke
@@ -5241,6 +5489,16 @@
 			(justify left bottom)
 		)
 		(uuid "3f4b8589-b2cb-4c45-ab96-10dc421fe693")
+	)
+	(label "OLED_SDA"
+		(at 123.19 154.94 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "416a259c-3a23-4bf7-a065-61ae51000210")
 	)
 	(label "COL_0"
 		(at 72.39 144.78 0)
@@ -5422,6 +5680,16 @@
 		)
 		(uuid "b8463b23-2f66-4107-afc6-8c6c4fcd8087")
 	)
+	(label "OLED_SDA"
+		(at 50.8 29.21 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "bf69ac94-364c-4c4c-b40e-4b7595a78a77")
+	)
 	(label "ROW_3"
 		(at 50.8 88.9 0)
 		(effects
@@ -5431,6 +5699,16 @@
 			(justify left bottom)
 		)
 		(uuid "bf87afc2-b49d-46c6-bb8e-46f0b605fee9")
+	)
+	(label "OLED_SCL"
+		(at 50.8 26.67 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c08d8ae9-ef09-4f3f-82b3-9c1f9eb3a5ec")
 	)
 	(label "COL_6"
 		(at 152.4 25.4 270)
@@ -5491,6 +5769,16 @@
 			(justify left bottom)
 		)
 		(uuid "f545be1d-5ac5-446e-8db5-de039524b1c6")
+	)
+	(label "OLED_SCL"
+		(at 123.19 152.4 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "fe45d585-a37b-48ff-9bbe-8718e30ff913")
 	)
 	(symbol
 		(lib_id "Device:D")
@@ -7569,6 +7857,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3V")
+		(at 38.1 19.05 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "46e2529c-face-4e67-ad2c-83754a724f42")
+		(property "Reference" "#PWR016"
+			(at 38.1 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 38.1 13.97 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 38.1 19.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 38.1 19.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 38.1 19.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "dcd717f9-f70e-4efc-8f2b-0bf94f9464b2")
+		)
+		(instances
+			(project "Keyboard"
+				(path "/8c50ca30-7e5f-4942-aa3e-2d9da8c7d0f2"
+					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:D")
 		(at 129.54 59.69 90)
 		(unit 1)
@@ -7745,6 +8111,92 @@
 			(project "Keyboard"
 				(path "/8c50ca30-7e5f-4942-aa3e-2d9da8c7d0f2"
 					(reference "#PWR014")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SSD1306-128x64_OLED:SSD1306")
+		(at 24.13 25.4 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "516b805d-f23d-45d3-86b9-98f1c4157d65")
+		(property "Reference" "Brd1"
+			(at 24.13 13.97 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SSD1306"
+			(at 24.13 16.51 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 30.48 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 30.48 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 24.13 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "fb8a5c14-a8d6-472d-8cf0-05a601ab5e82")
+		)
+		(pin "3"
+			(uuid "c65ef970-1be3-440c-9917-e7f6b9451464")
+		)
+		(pin "4"
+			(uuid "30242ec7-5140-442a-97e0-e97fcd10bb0e")
+		)
+		(pin "1"
+			(uuid "21797e80-b50d-4672-ae78-4d430aa9e49a")
+		)
+		(instances
+			(project "Keyboard"
+				(path "/8c50ca30-7e5f-4942-aa3e-2d9da8c7d0f2"
+					(reference "Brd1")
 					(unit 1)
 				)
 			)
@@ -11506,6 +11958,84 @@
 			(project "Keyboard"
 				(path "/8c50ca30-7e5f-4942-aa3e-2d9da8c7d0f2"
 					(reference "SW34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 33.02 19.05 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c91f8bf8-9390-47ae-a309-8012c0785808")
+		(property "Reference" "#PWR015"
+			(at 33.02 12.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 33.02 13.97 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 33.02 19.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 33.02 19.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 33.02 19.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5a50279f-2f28-4398-898b-74867d3ffbbe")
+		)
+		(instances
+			(project "Keyboard"
+				(path "/8c50ca30-7e5f-4942-aa3e-2d9da8c7d0f2"
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
