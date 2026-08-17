@@ -649,6 +649,14 @@
     "meta": {
       "version": 1
     },
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "reuse_designators": true,
@@ -661,7 +669,7 @@
         "uuid": "8c50ca30-7e5f-4942-aa3e-2d9da8c7d0f2"
       }
     ],
-    "used_designators": "#FLG1-3,L1,BT1,R1-8,J1-2,C1-12,D1-43,Brd1,SW1-43,#PWR1-36,U1-5",
+    "used_designators": "SW_C1,D_SW_R1,D_SW_SPACE1,SW_Q1,C1-12,SW_SHIFT1,SW_T1,SW_V1,SW_Z1,SW_F1,D1-43,SW_ALT1,D_SW_W1,SW_E1,#FLG1-3,D_SW_SUPER1,SW_S1,Brd1,D_SW_A1,R1-8,L1,D_SW_D1,D_SW_V1,SW_X1,U1-5,D_SW_S1,D_SW_C1,D_SW_TICK1,SW_SUPER1,SW_G1,SW1-43,D_SW_Z1,D_SW_X1,#PWR1-36,SW_TICK1,D_SW_CAPS1,SW_R1,SW_CTRL1,SW_W1,D_SW_TAB1,SW_D1,J1-2,D_SW_T1,SW_TAB1,D_SW_SHIFT1,SW_A1,D_SW_F1,D_SW_Q1,D_SW_G1,D_SW_E1,SW_SPACE1,D_SW_ALT1,D_SW_CTRL1,SW_CAPS1,BT1",
     "variants": []
   },
   "sheets": [
