@@ -8414,7 +8414,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 66.04 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -8754,7 +8754,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 66.04 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -9016,7 +9016,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 104.14 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -9096,7 +9096,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 116.84 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -9791,7 +9791,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.50u"
 			(at 53.34 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -9949,7 +9949,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u"
 			(at 78.74 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -10295,7 +10295,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 116.84 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -10635,7 +10635,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 78.74 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -11031,7 +11031,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.25u"
 			(at 53.34 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -11193,7 +11193,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 53.34 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -11273,7 +11273,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 78.74 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -11960,7 +11960,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 91.44 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -12118,7 +12118,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u"
 			(at 66.04 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -12198,7 +12198,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 91.44 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -12382,7 +12382,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 116.84 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -12625,7 +12625,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 78.74 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -12862,7 +12862,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 66.04 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -13128,7 +13128,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 104.14 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -13270,7 +13270,7 @@
 		(fields_autoplaced yes)
 		(uuid "79db8c09-334b-47e4-bcbb-dd88ea9d5984")
 		(property "Reference" "SW1"
-			(at 44.45 134.62 0)
+			(at 44.45 132.08 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13279,8 +13279,8 @@
 				)
 			)
 		)
-		(property "Value" "SW5"
-			(at 44.45 132.08 0)
+		(property "Value" "SW_RESET"
+			(at 44.45 134.62 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14283,7 +14283,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 78.74 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -15125,7 +15125,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 66.04 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -15800,7 +15800,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 129.54 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -16126,7 +16126,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u"
 			(at 53.34 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -16656,7 +16656,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 91.44 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -16814,7 +16814,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 104.14 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -17081,7 +17081,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_3.00u"
 			(at 91.44 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -17239,7 +17239,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.75u"
 			(at 53.34 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -17894,7 +17894,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 91.44 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -18056,7 +18056,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 104.14 66.04 0)
 			(hide yes)
 			(show_name no)
