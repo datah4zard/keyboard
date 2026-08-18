@@ -5039,7 +5039,7 @@
 		(uuid "0216399b-73d6-45d4-9c24-dab32080a200")
 	)
 	(junction
-		(at 158.75 176.53)
+		(at 149.86 181.61)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "04e7c99b-323b-402f-b19c-a7c129e9f7cc")
@@ -5063,12 +5063,6 @@
 		(uuid "0a869b08-dbd9-4e6f-b99e-105f00b204ae")
 	)
 	(junction
-		(at 279.4 68.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0db11120-a49f-44c3-b4e2-3a8ee5f9bbcd")
-	)
-	(junction
 		(at 48.26 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5079,6 +5073,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "10175e23-3e9a-46a8-a713-783eb53645ed")
+	)
+	(junction
+		(at 279.4 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "129eae93-4c52-43a9-964c-4fcc5cef6078")
 	)
 	(junction
 		(at 73.66 78.74)
@@ -5243,7 +5243,7 @@
 		(uuid "71f5c535-bc8f-497d-8100-ff7455a58371")
 	)
 	(junction
-		(at 154.94 176.53)
+		(at 146.05 181.61)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "77725d14-f3d2-48ad-b847-0d2db9f950e1")
@@ -5271,12 +5271,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "89016555-bc2f-4008-ad11-3afa07ea6b22")
-	)
-	(junction
-		(at 273.05 68.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8a6f7356-f0ce-42c3-816b-a75fc910b5a9")
 	)
 	(junction
 		(at 71.12 83.82)
@@ -5522,7 +5516,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 179.07) (xy 149.86 182.88)
+			(xy 140.97 184.15) (xy 140.97 187.96)
 		)
 		(stroke
 			(width 0)
@@ -5772,7 +5766,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 68.58) (xy 266.7 77.47)
+			(xy 279.4 64.77) (xy 279.4 68.58)
 		)
 		(stroke
 			(width 0)
@@ -6132,7 +6126,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 176.53) (xy 158.75 176.53)
+			(xy 146.05 181.61) (xy 149.86 181.61)
 		)
 		(stroke
 			(width 0)
@@ -6462,7 +6456,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 176.53) (xy 160.02 176.53)
+			(xy 149.86 181.61) (xy 151.13 181.61)
 		)
 		(stroke
 			(width 0)
@@ -6672,16 +6666,6 @@
 	)
 	(wire
 		(pts
-			(xy 279.4 76.2) (xy 279.4 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a149a796-eac6-47e7-ac6e-7cd5a003e941")
-	)
-	(wire
-		(pts
 			(xy 152.4 124.46) (xy 157.48 124.46)
 		)
 		(stroke
@@ -6712,16 +6696,6 @@
 	)
 	(wire
 		(pts
-			(xy 273.05 68.58) (xy 266.7 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a84b6469-6ce6-45ee-8e8f-0214fa82a2a0")
-	)
-	(wire
-		(pts
 			(xy 167.64 163.83) (xy 167.64 165.1)
 		)
 		(stroke
@@ -6742,7 +6716,7 @@
 	)
 	(wire
 		(pts
-			(xy 279.4 40.64) (xy 279.4 68.58)
+			(xy 279.4 40.64) (xy 279.4 64.77)
 		)
 		(stroke
 			(width 0)
@@ -6962,7 +6936,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 179.07) (xy 160.02 179.07)
+			(xy 140.97 184.15) (xy 151.13 184.15)
 		)
 		(stroke
 			(width 0)
@@ -7042,16 +7016,6 @@
 	)
 	(wire
 		(pts
-			(xy 279.4 68.58) (xy 273.05 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d11b5862-118d-4252-9fea-680924b804ef")
-	)
-	(wire
-		(pts
 			(xy 63.5 137.16) (xy 63.5 139.7)
 		)
 		(stroke
@@ -7122,7 +7086,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 172.72) (xy 154.94 176.53)
+			(xy 146.05 177.8) (xy 146.05 181.61)
 		)
 		(stroke
 			(width 0)
@@ -7162,16 +7126,6 @@
 	)
 	(wire
 		(pts
-			(xy 279.4 68.58) (xy 279.4 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dd742ae9-23d5-4d60-9493-11d23769c1fc")
-	)
-	(wire
-		(pts
 			(xy 111.76 170.18) (xy 123.19 170.18)
 		)
 		(stroke
@@ -7192,7 +7146,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 176.53) (xy 154.94 176.53)
+			(xy 140.97 181.61) (xy 146.05 181.61)
 		)
 		(stroke
 			(width 0)
@@ -7352,7 +7306,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 165.1) (xy 154.94 167.64)
+			(xy 146.05 170.18) (xy 146.05 172.72)
 		)
 		(stroke
 			(width 0)
@@ -7701,7 +7655,7 @@
 		(uuid "c2ba42e5-63c5-4a8f-884c-30639c4b763b")
 	)
 	(label "BAT"
-		(at 149.86 176.53 0)
+		(at 140.97 181.61 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7814,7 +7768,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 99.06 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -7996,7 +7950,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 48.26 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -8068,7 +8022,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 154.94 165.1 180)
+		(at 146.05 170.18 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8079,7 +8033,7 @@
 		(fields_autoplaced yes)
 		(uuid "08e8c709-4934-4f53-b2ba-ffa4791987f3")
 		(property "Reference" "#PWR033"
-			(at 154.94 158.75 0)
+			(at 146.05 163.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8090,7 +8044,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 154.94 160.02 0)
+			(at 146.05 165.1 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8100,7 +8054,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 154.94 165.1 0)
+			(at 146.05 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8111,7 +8065,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 165.1 0)
+			(at 146.05 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8122,7 +8076,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 154.94 165.1 0)
+			(at 146.05 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8652,7 +8606,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 73.66 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -8836,7 +8790,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 86.36 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -9429,7 +9383,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 48.26 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -9611,7 +9565,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 99.06 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -10533,7 +10487,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 86.36 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -11433,7 +11387,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 111.76 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -11505,7 +11459,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 266.7 77.47 180)
+		(at 279.4 68.58 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11516,7 +11470,7 @@
 		(fields_autoplaced yes)
 		(uuid "4e8eda31-b9c0-4a4d-bea1-106f3bbe9a51")
 		(property "Reference" "#PWR014"
-			(at 266.7 73.66 0)
+			(at 279.4 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11527,7 +11481,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 266.7 82.55 0)
+			(at 279.4 73.66 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11537,7 +11491,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 266.7 77.47 0)
+			(at 279.4 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11548,7 +11502,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 266.7 77.47 0)
+			(at 279.4 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11559,7 +11513,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 266.7 77.47 0)
+			(at 279.4 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11576,89 +11530,6 @@
 			(project "Keyboard"
 				(path "/8c50ca30-7e5f-4942-aa3e-2d9da8c7d0f2"
 					(reference "#PWR014")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 279.4 73.66 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "51c8a439-83d8-4997-8a3b-e25f01ad8939")
-		(property "Reference" "C4"
-			(at 276.86 72.3962 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "???"
-			(at 276.86 74.9362 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 279.4 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 279.4 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 279.4 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "786eeda1-c79d-4900-9c7f-e114296581b7")
-		)
-		(pin "1"
-			(uuid "c85f8354-475d-4880-9fde-84f60dc2f759")
-		)
-		(instances
-			(project "Keyboard"
-				(path "/8c50ca30-7e5f-4942-aa3e-2d9da8c7d0f2"
-					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -11858,7 +11729,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 86.36 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -12280,7 +12151,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 73.66 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -12944,7 +12815,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 111.76 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -13016,7 +12887,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 165.1 179.07 180)
+		(at 156.21 184.15 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13027,7 +12898,7 @@
 		(fields_autoplaced yes)
 		(uuid "76b28a32-b5f4-4840-8770-ebed7f4ba334")
 		(property "Reference" "J2"
-			(at 166.37 176.5299 0)
+			(at 157.48 181.6099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13038,7 +12909,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 166.37 179.0699 0)
+			(at 157.48 184.1499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13049,7 +12920,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 165.1 179.07 0)
+			(at 156.21 184.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13060,7 +12931,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 179.07 0)
+			(at 156.21 184.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13071,7 +12942,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 165.1 179.07 0)
+			(at 156.21 184.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13419,84 +13290,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 279.4 77.47 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7a8e5249-ada9-4292-8598-1b9c905e6d22")
-		(property "Reference" "#PWR013"
-			(at 279.4 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 279.4 82.55 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 279.4 77.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 279.4 77.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 279.4 77.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "7a6e549b-0f70-4b0b-bdbb-b272590dfd43")
-		)
-		(instances
-			(project "Keyboard"
-				(path "/8c50ca30-7e5f-4942-aa3e-2d9da8c7d0f2"
-					(reference "#PWR013")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D")
 		(at 99.06 74.93 90)
 		(unit 1)
@@ -13530,7 +13323,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 99.06 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -13680,7 +13473,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 158.75 176.53 0)
+		(at 149.86 181.61 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13691,7 +13484,7 @@
 		(fields_autoplaced yes)
 		(uuid "7fe34605-3db5-4382-96e7-4ea9c9249613")
 		(property "Reference" "#FLG01"
-			(at 158.75 174.625 0)
+			(at 149.86 179.705 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13702,7 +13495,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 158.75 171.45 0)
+			(at 149.86 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13713,7 +13506,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 158.75 176.53 0)
+			(at 149.86 181.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13724,7 +13517,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 158.75 176.53 0)
+			(at 149.86 181.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13735,7 +13528,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 158.75 176.53 0)
+			(at 149.86 181.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13791,7 +13584,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 48.26 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -13895,7 +13688,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 60.96 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -14077,7 +13870,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 60.96 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -14181,7 +13974,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 60.96 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -14762,7 +14555,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 48.26 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -14945,7 +14738,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 60.96 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -15513,7 +15306,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 124.46 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -15617,7 +15410,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 99.06 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -16368,7 +16161,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 86.36 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -16472,7 +16265,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 48.26 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -17131,7 +16924,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 149.86 182.88 0)
+		(at 140.97 187.96 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17142,7 +16935,7 @@
 		(fields_autoplaced yes)
 		(uuid "cd6bd6a4-c428-43ac-a671-5fa7caaf7002")
 		(property "Reference" "#PWR018"
-			(at 149.86 189.23 0)
+			(at 140.97 194.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17153,7 +16946,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 149.86 187.96 0)
+			(at 140.97 193.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17163,7 +16956,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 149.86 182.88 0)
+			(at 140.97 187.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17174,7 +16967,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 149.86 182.88 0)
+			(at 140.97 187.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17185,7 +16978,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 149.86 182.88 0)
+			(at 140.97 187.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17321,7 +17114,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 73.66 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -17471,7 +17264,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 154.94 170.18 0)
+		(at 146.05 175.26 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17481,7 +17274,7 @@
 		(dnp no)
 		(uuid "d3cbe7c1-c06f-4536-902d-7b9038b7c04d")
 		(property "Reference" "C11"
-			(at 148.844 168.656 0)
+			(at 139.954 173.736 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17492,7 +17285,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 148.844 171.196 0)
+			(at 139.954 176.276 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17503,7 +17296,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 154.94 170.18 0)
+			(at 146.05 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17514,7 +17307,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 170.18 0)
+			(at 146.05 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17525,7 +17318,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 154.94 170.18 0)
+			(at 146.05 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17584,7 +17377,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 111.76 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -17688,7 +17481,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 73.66 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -17792,7 +17585,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 60.96 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -18315,7 +18108,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 73.66 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -18547,7 +18340,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 273.05 68.58 0)
+		(at 279.4 64.77 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18558,7 +18351,7 @@
 		(fields_autoplaced yes)
 		(uuid "fcf58d7d-32aa-4ba4-86f8-e7eb0f602140")
 		(property "Reference" "#FLG02"
-			(at 273.05 66.675 0)
+			(at 277.495 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18569,7 +18362,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 273.05 63.5 0)
+			(at 274.32 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18580,7 +18373,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 273.05 68.58 0)
+			(at 279.4 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18591,7 +18384,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 273.05 68.58 0)
+			(at 279.4 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18602,7 +18395,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 273.05 68.58 0)
+			(at 279.4 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18658,7 +18451,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 86.36 62.23 0)
 			(hide yes)
 			(show_name no)
